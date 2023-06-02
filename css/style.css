@@ -125,3 +125,11 @@ h1 {
 	color: white;
 	padding-left: 30px;
 }
+
+h3 {
+	background-color: pink;
+	background-image: url(../img/batman.png);
+	height: 100px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
