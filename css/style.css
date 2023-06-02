@@ -1,6 +1,6 @@
 * {
 	font-weight: normal;
-	font-family: Arial;
+	font-family: 'Roboto', sans-serif;
 }
 header {
 	position: relative;
@@ -129,7 +129,9 @@ h1 {
 h3 {
 	background-color: pink;
 	background-image: url(../img/batman.png);
-	height: 100px;
+	height: 200px;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center left;
+	background-attachment: fixed;
+	background-size: contain;
 }
